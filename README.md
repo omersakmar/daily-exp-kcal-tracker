@@ -1,1 +1,2 @@
 This is the first sample of a React widget I've developed for my internship at Prifina. The goal is to create a widget that tracks the daily weight, calorie intake, and expense logs from users, and display the correlation between the three within a given timeframe (e.g. 30 days), with the help of Charts.js. In its initial stage, the widget has no functionalities and takes all of the data from the functions I've utilized to create random data whenever the page reloads.
+![My_Image](src/kcal-exp-daily-tracker.png)
