@@ -1,0 +1,6 @@
+.medium-widget {
+    display: flex;
+    justify-content: center;
+    padding: 50px 50px 25px;
+    font-size: 20px;
+}
